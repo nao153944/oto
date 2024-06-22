@@ -72,6 +72,7 @@ kaisuu-text{
    margin-top: 15px;
    position: relative;
    top: 3px;
+   -webkit- appearance: none;
 }
 
 
@@ -151,6 +152,7 @@ input[type=search]{
    left: 10px;
    position: relative;
    margin-top: 10px;
+   -webkit- appearance: none;
 }
 
 
@@ -164,6 +166,7 @@ input[type=search]{
 .checkbox{
    width: 25px;
    height: 25px;
+   -webkit- appearance: none;
 }
 
 .c-button{
